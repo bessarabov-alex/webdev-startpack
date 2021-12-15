@@ -1,6 +1,6 @@
 {
   "name": "new-project",
-  "version": "3.1.1",
+  "version": "1.0.0",
   "description": "HTML5+CSS3 template for easy start website project'",
   "main": "gulpfile.js",
   "scripts": {
@@ -10,7 +10,8 @@
     "ftp": "gulp deploy",
     "build-ftp": "npm run build && npm run ftp"
   },
-  "author": "",
+  "repository": "https://github.com/bessarabov-alex/webdev-startpack.git",
+  "author": "Alex B",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.14.2",
